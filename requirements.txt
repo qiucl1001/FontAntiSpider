@@ -1,5 +1,5 @@
 requests==2.22.0
-lxml==4.3.3
+lxml==4.6.5
 parsel==1.5.1
 pytesseract==0.2.7
 pyppeteer==0.0.25
